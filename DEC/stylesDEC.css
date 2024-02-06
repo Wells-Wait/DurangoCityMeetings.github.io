@@ -1,0 +1,45 @@
+*{
+    text-decoration: none;
+    margin: 0;
+}
+* body{
+    background-color: #000000;
+}
+* header{
+    
+    background-color: rgb(195, 195, 195);
+    
+}
+* header a{
+    color: black;
+    font-size: 48pt;
+    padding-left: 1.5%;
+}
+* li header{
+    color: white;
+    background-color: transparent;
+    padding-top: 2%;
+    font-size: 34px;
+
+}
+* li::marker{
+    font-size: 34px;
+    color: #fff;
+
+}
+
+* p{
+    font-size: 20px;
+    padding-top: .5%;
+    color: #fff;
+}
+* ul{
+    padding-left: 5%;
+}
+* section{
+    background-image: linear-gradient(#000d40,#000);
+}
+* header a:hover{
+    color: #000d40;
+    font-size: 48pt;
+    text-decoration: underline;}
