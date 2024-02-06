@@ -59,7 +59,7 @@ ol li:before {
 
 #novS{
     background-color: #fff;
-    background-image: url("/assets/637575506910470000.jpeg");
+    background-image: url("assets/637575506910470000.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -69,7 +69,7 @@ ol li:before {
 }
 #decS{
     background-color: #fff;
-    background-image: url("/assets/citylocal.jpeg");
+    background-image: url("assets/citylocal.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -79,7 +79,7 @@ ol li:before {
 }
 #janS{
     background-color: #fff;
-    background-image: url("/assets/unnamed2.jpg");
+    background-image: url("assets/unnamed2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
