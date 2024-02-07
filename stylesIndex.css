@@ -41,7 +41,9 @@
 }
 ol li {
     list-style-type: none;
-    position: relative;}
+    position: relative;
+}
+    
 ol li:before {
         counter-increment: myOrderedListItemsCounter;
         content: counter(myOrderedListItemsCounter)".";

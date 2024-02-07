@@ -34,11 +34,10 @@
     color: #fff;
     padding-left: 5%;
 }
-* ul{
-    padding-left: 5%;
-}
+
 * section{
     background-image: linear-gradient(#054000,#000);
+    padding: 1.5% 5%;
 }
 * header a:hover{
     color: #054000;
