@@ -27,6 +27,12 @@
     color: #fff;
 
 }
+* li{
+    color: white;
+    
+    padding-top: 2%;
+    font-size: 34px;
+}
 
 * p{
     font-size: 20px;
@@ -42,3 +48,9 @@
     color: #000d40;
     font-size: 48pt;
     text-decoration: underline;}
+.text{
+    color: white;
+    
+    padding-top: 2%;
+    font-size: 34px;
+}
